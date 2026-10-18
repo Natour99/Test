@@ -1,7 +1,18 @@
 # Test
 
-A small test repository, used to try out working with Claude Code.
+A small beginner website made with plain HTML, CSS and JavaScript.
 
-## What's here
+## Pages
 
-- `index.html` – a simple web page. Open it in any browser.
+- `index.html`: home page
+- `about.html`: about me
+- `contact.html`: practice contact form (doesn't send anything)
+
+## Files
+
+- `css/style.css`: all the styling, including light and dark mode
+- `js/main.js`: the theme toggle, footer year and contact form
+
+## How to view it
+
+Double-click `index.html` to open it in your browser. No installation needed.

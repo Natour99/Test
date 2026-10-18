@@ -6,6 +6,7 @@
   --muted: #5c5c66;
   --accent: #2563eb;
   --border: #e3e3e8;
+  --button: #dc2626;
 }
 
 /* Dark mode: main.js adds the "dark" class to <html>. */
@@ -16,6 +17,7 @@
   --muted: #a0a0ab;
   --accent: #60a5fa;
   --border: #2c2c34;
+  --button: #ef4444;
 }
 
 * { box-sizing: border-box; }
@@ -61,7 +63,7 @@ nav a:hover, nav a.active { color: var(--accent); }
 /* Buttons */
 .button {
   display: inline-block;
-  background: var(--accent);
+  background: var(--button);
   color: #fff;
   border: none;
   border-radius: 8px;
